@@ -1,0 +1,42 @@
+2019-03-09 18:30:10,084     INFO login:山东  山东1 
+2019-03-09 18:30:40,766     INFO Create DataTable:  D56时间2019030930.d 
+2019-03-09 20:00:55,812     INFO login:山东  山东1 
+2019-03-09 20:01:10,875     INFO Create DataTable:  D56时间2019030901.d 
+2019-03-09 20:05:58,457     INFO Create DataTable:  D56时间2019030905.d 
+2019-03-09 20:06:25,911     INFO Create DataTable:  D56时间2019030906.d 
+2019-03-09 20:06:40,486     INFO querry data :D:\Projections\NEWPI\GuanDian\SavingDir,D56时间2019030906 
+2019-03-09 20:06:55,448     INFO export data :D:\Projections\NEWPI\GuanDian\SavingDir,D56时间2019030906 
+2019-03-09 20:27:32,246     INFO login:山东  山东1 
+2019-03-09 20:27:47,451     INFO Create DataTable:  D56时间2019030927.d 
+2019-03-09 20:28:31,743     INFO login:河南 河南1 
+2019-03-09 20:28:39,463     INFO Create DataTable:  D飞时间2019030928.d 
+2019-03-09 20:30:17,260     INFO login:河南 河南1 
+2019-03-09 20:30:33,119     INFO Create DataTable:  D飞时间2019030930.d 
+2019-03-09 20:35:45,134     INFO create dir:D:\Projections\NEWPI\GuanDian\SoftSetDir 
+2019-03-09 20:35:45,138     INFO create dir:D:\Projections\NEWPI\GuanDian\TemplateParaDir 
+2019-03-09 20:35:45,144     INFO create dir:D:\Projections\NEWPI\GuanDian\ParasDir 
+2019-03-09 20:35:45,181     INFO create dir:D:\Projections\NEWPI\GuanDian\SavingDir 
+2019-03-09 20:35:45,186     INFO create file:D:\Projections\NEWPI\GuanDian\SoftSetDir\setting.txt 
+2019-03-09 20:35:45,266     INFO create file:D:\Projections\NEWPI\GuanDian\SoftSetDir\loginsetting.txt 
+2019-03-09 20:35:45,384     INFO create file:D:\Projections\NEWPI\GuanDian\TemplateParaDir\paratemplates.txt 
+2019-03-09 20:35:53,407     INFO login:省份名 工厂名 
+2019-03-09 20:37:26,933     INFO create dir:D:\Projections\NEWPI\GuanDian\SoftSetDir 
+2019-03-09 20:37:26,934     INFO create dir:D:\Projections\NEWPI\GuanDian\TemplateParaDir 
+2019-03-09 20:37:26,937     INFO create dir:D:\Projections\NEWPI\GuanDian\ParasDir 
+2019-03-09 20:37:26,937     INFO create dir:D:\Projections\NEWPI\GuanDian\SavingDir 
+2019-03-09 20:37:26,944     INFO create file:D:\Projections\NEWPI\GuanDian\SoftSetDir\setting.txt 
+2019-03-09 20:37:26,950     INFO create file:D:\Projections\NEWPI\GuanDian\SoftSetDir\loginsetting.txt 
+2019-03-09 20:37:26,957     INFO create file:D:\Projections\NEWPI\GuanDian\TemplateParaDir\paratemplates.txt 
+2019-03-09 20:37:44,517     INFO create dir:D:\Projections\NEWPI\GuanDian\SoftSetDir 
+2019-03-09 20:37:44,519     INFO create dir:D:\Projections\NEWPI\GuanDian\TemplateParaDir 
+2019-03-09 20:37:44,539     INFO create dir:D:\Projections\NEWPI\GuanDian\ParasDir 
+2019-03-09 20:37:44,540     INFO create dir:D:\Projections\NEWPI\GuanDian\SavingDir 
+2019-03-09 20:37:44,542     INFO create file:D:\Projections\NEWPI\GuanDian\SoftSetDir\setting.txt 
+2019-03-09 20:37:44,572     INFO create file:D:\Projections\NEWPI\GuanDian\SoftSetDir\loginsetting.txt 
+2019-03-09 20:37:44,578     INFO create file:D:\Projections\NEWPI\GuanDian\TemplateParaDir\paratemplates.txt 
+2019-03-09 20:38:27,959     INFO login:省份名 工厂名 
+2019-03-09 20:42:29,539     INFO Create DataTable:  DMUBAN时间2019030942.d 
+2019-03-09 20:44:33,693     INFO Create DataTable:  DMUBAN时间2019030944.d 
+2019-03-09 20:44:39,967     INFO delete file:  D:/Projections/NEWPI/GuanDian/SavingDir/DMUBAN时间2019030944.d 
+2019-03-09 20:56:31,832     INFO login:省份名 工厂名 
+2019-03-09 20:57:02,743     INFO delete file:  D:/Projections/NEWPI/GuanDian/ParasDir/MUBAN.txt 
